@@ -648,7 +648,7 @@ h3{
 .latest {
     position: absolute;
     font-size: 25;
-    margin-left: 45%;
+    margin-left: 44%;
     color:rgb(0, 0, 0);
     top: 2300px;
  }
@@ -656,14 +656,14 @@ h3{
    position: absolute;
    top: 50px;
    font-size: 25;
-   margin-left: 35%;
+   margin-left: 34%;
    color:rgb(0, 0, 0);
  }
 /*--------------------------*/
 .punkt{
     position: absolute;
     top: 2400px;
-    margin-left: 20%;
+    margin-left: 22%;
 }
 .punkt2{
     position: absolute;
@@ -673,13 +673,13 @@ h3{
 .punkt3{
     position: absolute;
     top: 2400px;
-    margin-left: 64%;
+    margin-left: 62%;
 }
 /*---------------------------*/
 .recruiting{
-    margin-left: 20%;
+    margin-left: 22%;
     position: absolute;
-    padding: 100px 270px 110px 10px;
+    padding: 100px 250px 110px 10px;
     top: 2550px;
     background-color: #ffffff;
 }
@@ -717,7 +717,7 @@ h3{
     font-family:Arial, Helvetica, sans-serif;
     top: 2720px;
 background-color: #46aa80;
-margin-left: 21%;
+margin-left: 23%;
 padding: 5px 20px 5px 20px;
 }
 .bott a{
@@ -735,7 +735,7 @@ padding: 5px 20px 5px 20px;
 .recruiting2{
     margin-left: 42%;
     position: absolute;
-    padding: 100px 270px 110px 10px;
+    padding: 100px 250px 110px 10px;
     top: 2550px;
     background-color: #ffffff;
 }
@@ -789,9 +789,9 @@ padding: 5px 20px 5px 20px;
 
 /*---------------------------------*/
 .recruiting3{
-    margin-left: 64%;
+    margin-left: 62%;
     position: absolute;
-    padding: 100px 270px 110px 10px;
+    padding: 100px 250px 110px 10px;
     top: 2550px;
     background-color: #ffffff;
 }
@@ -829,7 +829,7 @@ padding: 5px 20px 5px 20px;
     font-family:Arial, Helvetica, sans-serif;
     top: 2720px;
 background-color: #46aa80;
-margin-left: 65%;
+margin-left: 63%;
 padding: 5px 20px 5px 20px;
 }
 .bott3 a{
@@ -912,7 +912,7 @@ padding: 5px 20px 5px 20px;
     font-size: 25;
     margin-left: 44%;
     color:rgb(255, 255, 255);
-    top: 3190px;
+    top: 3150px;
  }
  
 /*-----Девушка------*/
@@ -949,20 +949,20 @@ padding: 5px 20px 5px 20px;
         padding: 50px 0px 50px 390px;
         position: absolute;
         margin-left: 750px;
-        top: 3260px;
+        top: 3220px;
 }
 .nameMUC{
     font-size: 15;
     position: absolute;
-    top: 3300px;
-    margin-left: 990px;
+    top: 3260px;
+    margin-left: 985px;
     color: #ffffff;
 
 }
 .titMUC{
     font-size: 13;
     position: absolute;
-    top: 3325px;
+    top: 3285px;
     margin-left: 1015px;
     color: #c5c5c5;
 }
@@ -973,7 +973,7 @@ padding: 5px 20px 5px 20px;
     font-family:Arial, Helvetica, sans-serif;
     font-size: 13;
     position: absolute;
-    top: 3345px;
+    top: 3310px;
     margin-left: 825px;
     color: #c5c5c5;
 }
@@ -1002,7 +1002,7 @@ padding: 5px 20px 5px 20px;
 
  .btn a{
     position: absolute;
-    top: 3500px;
+    top: 3450px;
     padding: 3px 30px 3px 30px;
     margin-left: 44%;
     background-color: #ffffff;
@@ -1014,7 +1014,7 @@ padding: 5px 20px 5px 20px;
         }
  .btn2 a{
     position: absolute;
-    top: 3500px;
+    top: 3450px;
     padding: 3px 30px 3px 30px;
     margin-left: 49%;
     background-color: #ffffff;
@@ -1026,7 +1026,7 @@ padding: 5px 20px 5px 20px;
         }
  .btn3 a{
     position: absolute;
-    top: 3500px;
+    top: 3450px;
     padding: 3px 30px 3px 30px;
     margin-left: 54%;
     background-color: #ffffff;
