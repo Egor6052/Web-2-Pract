@@ -1152,19 +1152,19 @@ font-size: 14;
     z-index: 8;
     font-size: 25;
    position: absolute;
-   margin-left: -45px;
+   margin-left: -5px;
    color: #ffffff;
    margin-top: -300px;
  }
  .company .arg{
-     margin-left: 10px;
+     margin-left: 60px;
      color:rgb(255, 255, 255);
      font-size: 15;
      margin-top: -120px;
  }
  .company .arg2{
     color:rgb(255, 255, 255);
-    margin-left: 120px;
+    margin-left: 160px;
     font-size: 15;
     margin-top: -120px;
  }
@@ -1176,14 +1176,14 @@ font-size: 14;
     position: absolute;
     list-style-type: none;
     margin-top: -120;
-    margin-left: 160px;
+    margin-left: 200px;
 
  }
  .galary p{
     z-index: 8;
     font-size: 26;
    position: absolute;
-   margin-left: 80px;
+   margin-left: 120px;
    color: #ffffff;
    margin-top: -40px;
    font-family:Arial, Helvetica, sans-serif;
@@ -1191,7 +1191,7 @@ font-size: 14;
  }
  .galary .pag1{
      display: flex;
-     margin-left: 70px;
+     margin-left: 115px;
      color:rgb(255, 255, 255);
      font-size: 15;
      margin-top: 10;
@@ -1202,7 +1202,7 @@ font-size: 14;
  }
  .galary .pag2{
     display: flex;
-    margin-left: 70px;
+    margin-left: 115px;
     color:rgb(255, 255, 255);
     font-size: 15;
  }
